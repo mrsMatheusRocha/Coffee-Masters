@@ -38,10 +38,6 @@ Coffee-Masters/
 └── README.md      # Project documentation
 ```
 
-## Screenshots
-
-<!-- Add screenshots of the application UI here if available -->
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
